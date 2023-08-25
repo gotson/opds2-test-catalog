@@ -2,4 +2,4 @@
 
 ## Test Catalogs
 
-* [OPDS 2.0](https://test.opds.io/2.0/home.json)
+* [OPDS 2.0](http://localhost:2015/2.0/home.json)

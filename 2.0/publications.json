@@ -5,7 +5,7 @@
   },
   
   "links": [
-    {"rel": "self", "href": "https://test.opds.io/2.0/publications.json", "type": "application/opds+json"}
+    {"rel": "self", "href": "http://localhost:2015/2.0/publications.json", "type": "application/opds+json"}
   ],
   
 
@@ -45,13 +45,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -91,13 +91,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -134,13 +134,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -152,7 +152,7 @@
           "sortAs": "Verne, Jules",
           "identifier": "http://www.isni.org/isni/0000000121400562",
           "links": [
-            {"href": "https://test.opds.io/2.0/publications.json", "type": "application/opds+json"}
+            {"href": "http://localhost:2015/2.0/publications.json", "type": "application/opds+json"}
           ]
         },
         "identifier": "http://fr.feedbooks.com/book/1474/voyage-au-centre-de-la-terre",
@@ -184,13 +184,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -230,13 +230,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -286,13 +286,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -320,13 +320,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -354,13 +354,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -394,13 +394,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -443,13 +443,13 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/open-access", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     }, 
     {
@@ -486,7 +486,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/buy", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip",
           "properties": {
             "price": {
@@ -497,8 +497,8 @@
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     },
     {
@@ -535,13 +535,13 @@
       "links": [
         {
           "rel": ["http://opds-spec.org/acquisition/sample", "preview"], 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip"
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     }, 
     {
@@ -578,7 +578,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/subscribe", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip",
           "properties": {
             "price": {
@@ -589,8 +589,8 @@
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     }, 
     {
@@ -627,7 +627,7 @@
       "links": [
         {
           "rel": "http://opds-spec.org/acquisition/borrow", 
-          "href": "https://test.opds.io/assets/centredelaterre/file.epub", 
+          "href": "http://localhost:2015/assets/centredelaterre/file.epub",
           "type": "application/epub+zip",
           "properties": {
             "copies": {
@@ -643,8 +643,8 @@
         }
       ],
       "images": [
-        {"href": "https://test.opds.io/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
-        {"href": "https://test.opds.io/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
+        {"href": "http://localhost:2015/assets/centredelaterre/small.jpg", "type": "image/jpeg", "height": 110, "width": 146},
+        {"href": "http://localhost:2015/assets/centredelaterre/normal.jpg", "type": "image/jpeg", "height": 346, "width": 260}
       ]
     }
   ]

@@ -4,12 +4,12 @@
   },
   
   "links": [
-    {"rel": "self", "href": "https://test.opds.io/2.0/navigation.json", "type": "application/opds+json"}
+    {"rel": "self", "href": "http://localhost:2015/2.0/navigation.json", "type": "application/opds+json"}
   ],
   
   "navigation": [
     {
-      "href": "https://test.opds.io/2.0/home.json", 
+      "href": "http://localhost:2015/2.0/home.json",
       "title": "Best Selling (Absolute URI)", 
       "type": "application/opds+json", 
       "rel": "http://opds-spec.org/sort/popular"
@@ -26,12 +26,12 @@
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/404.json", 
+      "href": "http://localhost:2015/2.0/404.json",
       "title": "Categories (404)", 
       "type": "application/opds+json"
     },
     {
-      "href": "https://test.opds.io/2.0/navigation.json", 
+      "href": "http://localhost:2015/2.0/navigation.json",
       "title": "Explore (Navigation Feed)", 
       "type": "application/opds+json"
     }
