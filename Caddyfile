@@ -1,0 +1,11 @@
+{
+	admin off
+}
+
+http://localhost:2015 {
+	basicauth {
+		opds $2a$14$/uoC40i3Q16PjlqpSBeReOoNkSYClpi3543ZPta8oWVASJ9BjAGjK
+	}
+
+	file_server browse
+}
